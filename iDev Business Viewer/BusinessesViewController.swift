@@ -17,12 +17,12 @@ class BusinessesViewController: UITableViewController {
     
     let baseUrl = "https://api.yelp.com/oauth2/token" //Url for getting access
     let grant_type = "client_credentials" //A paramter that tells the server we want access for "client"
-    let client_id = "518053Hp9nttpTmK1rW-ig" //App specific information so server know who is requesting and for what. Put your id here.
-    let client_secret = "XPB9eyCOwsvoVSfeVteaEZ0VwkTDMAyJvZ7b3LW3iy8JJk2XOx1bp7SyCqhpfCTZ" //Pretty much same as previous but put your secret
+    let client_id = "b5IWJOAwIKwyOsOGbS-sCA" //App specific information so server know who is requesting and for what. Put your id here.
+    let client_secret = "vfXApOXb22emM3R0VBf2fnn2KTz7fuQJwAj00NbumxZ2YKldGvdEYOfgDZ0UNRqS" //Pretty much same as previous but put your secret
     
     
     let searchURL = "https://api.yelp.com/v3/businesses/search" //Url for searching for things
-    let location = "San Francisco,CA" //Some location
+    let location = "West Lafayette, IN" //Some location
     
     var businesses: [Business] = []
 

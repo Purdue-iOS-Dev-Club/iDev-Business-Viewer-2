@@ -350,7 +350,7 @@
 				DEVELOPMENT_TEAM = 3YC9K4952Y;
 				INFOPLIST_FILE = "iDev Business Viewer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "sirajzaneer.com.iDev-Business-Viewer";
+				PRODUCT_BUNDLE_IDENTIFIER = "sirajzaneer.com.iDev-Business-Viewer-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -364,7 +364,7 @@
 				DEVELOPMENT_TEAM = 3YC9K4952Y;
 				INFOPLIST_FILE = "iDev Business Viewer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "sirajzaneer.com.iDev-Business-Viewer";
+				PRODUCT_BUNDLE_IDENTIFIER = "sirajzaneer.com.iDev-Business-Viewer-2";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
